@@ -1,0 +1,21 @@
+<body style="color:black;">
+<p style="color:black">Dear Sir / Madam,</p>
+
+<h3 style="color:black"><center><b><u>APPLICATION FOR THE POST OF DESIGN/CIVIL /SITE ENGINEER</u></b></center></h3>
+
+<p style="color:black">I am Pavalayan Kanagarajah, civil engineer with a <b>BSc.Eng.(Hons) in civil engineering from the University of Moratuwa (IESL, ICE, PE board Recognized)</b>. I have been working in the civil engineering industry for <b>three years in Sri Lanka across the sectors of High Rise Building Project, Highway Engineering Road Project, Irrigation related Projects, Drainage and Water Management Projects</b>,and I am sure that developing my analytical thinking, creativity, and team work skills which make me greatest asset. I would like to apply for the above-mentioned position since I am interested in working for your reputable organization. I kindly request you to evaluate my application.<br></p>
+
+<p style="color:black">In order to further explore in the civil engineering field, I have also studied a number of technical subjects, such as Design of Large Structures, Structural Analysis & Design, Shallow Foundation Design, Pile Foundation Design, Fluid Mechanics & Hydraulics, Bridge Design, Project Management, Geotechnical Design, Water and Wastewater Supply Design, Highway Pavement Design, and Concrete Mix Design. Further, I possess hands-on experience on engineering design tools including SAP 2000, E-tabs, Prokon, Midas, Plaxis, Civil3D,ArcGIS, and AutoCAD.<br></p>
+
+<p style="color:black">My theoretical knowledge coupled with the set of skills accumulated throughout my experience. I firmly believe that I would be a valuable asset to your organization,specifically considering my ability to adapt to different working environments.<br></p>
+
+<p style="color:black">I would value the opportunity to work for a prestigious and well-regarded construction company like yours, and I could complete my tasks with little direction or supervision.I have attached my resume along with this letter to provide further details on my experience, skillset, and contact information. I am looking forward to hearing from you to discuss further in this regard.<br></p>
+
+<p style="color:black">Thank you.<br></p>
+
+<p>Kind Regards,<br>
+<style="font-family:Comic Sans MS;color:black;"><b>Eng.K.Pavalayan<br>
+B.Sc Eng (Hons),<br>
+AMIE(SL), AEng(ECSL)</b><br>
+TP :- +65 9375 3760</p>
+</body>
