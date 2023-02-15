@@ -1,0 +1,25 @@
+<body style="color:black;">
+<p style="color:black">Dear Sir / Madam,</p>
+
+<h3 style="color:black"><center><b><u>APPLICATION FOR THE POST OF CIVIL /SITE ENGINEER</u></b></center></h3>
+
+<p style="color:black">I am Kanagarajah Pavalayan ,<b> a Civil Engineer who graduated from the University of Moratuwa, Sri Lanka (IES, ICE, PE board Recognized)</b>. I have three years of working experience in the Construction industry. I am confident that my career will be enhanced by the practices of analytical thinking, creativity, self-motivation, and teamwork. I am interested in your well-reputed firm, and I would like to submit my application for the post mentioned above for your kind consideration.<br></p>
+
+<p style="color:black">Briefly, my background is as follows,<br><br>
+
+Experience                    :<b>        Three years In Buildings&  Road Projects & Irrigation Projects and Drainage and Water Management Projects.</b><br>
+Language                      :        English & Tamil<br>
+Availability                     :        Immediately<br>
+Salary Expectation        :        Negotiable<br>
+Computer Literacy        :        Auto-CAD, SAP 2000, ArcGIS, MS Project, MS Office, Plaxis, Civil3D<br>
+License                         :        Class 3<br></p>
+
+<p style="color:black">I wish to join your Engineering team as a brisk member, and I would be able to work with minimum guidance and supervision. I welcome the opportunity to discuss this further. To further acquaint you with the specifics of my background I am enclosing my resume. I look forward to hearing from you.<br></p>
+Thank you.<br>
+
+<p>Kind Regards,<br>
+<style="font-family:Comic Sans MS;color:black;""><b>Eng.K.Pavalayan<br>
+B.Sc Eng (Hons),<br>
+AMIE(SL), AEng(ECSL)</b><br>
+TP :- +65 9375 3760</p>
+</body>
